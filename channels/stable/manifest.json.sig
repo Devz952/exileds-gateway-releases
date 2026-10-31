@@ -1,1 +1,1 @@
-{"format":1,"signatures":[{"key_id":"341181cd2880bfd4","signature":"eda93571b3abb41413bdf813256cd1c1c6f9ce80612dc6ec81947f45aeed629e65072743a1a1dcc65775afdf86be5c67c84ca7f2b553b7b589b78b5113ec0d04"}]}
+{"format":1,"signatures":[{"key_id":"341181cd2880bfd4","signature":"0d81e181c3b148a56fb75f43d3c6586b22bdace70464c206d473e2ec8cabdea92ec7d41872a57c104ebd6f29e95243675128c5dfc40fb3708833817d199ddb05"}]}
